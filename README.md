@@ -3,7 +3,7 @@
 A Windows **MFC implementation** of the classic Sokoban (推箱子) puzzle game.  
 This project was created as a course final project and rewritten using **Microsoft Foundation Class (MFC)** to provide a graphical Windows GUI.
 
-玩家需操作角色推動箱子，使所有箱子抵達目的地。
+玩家需操作工人推動箱子，使所有箱子抵達目的地。
 
 ---
 
