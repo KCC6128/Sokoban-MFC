@@ -9,13 +9,11 @@ This project was created as a course final project and rewritten using **Microso
 
 ## Game Preview
 
-> 將圖片放到 `.github/images/` 即可正常顯示
-
 ### 遊戲畫面
-<img src=".github/images/play.png" width="600"/>
+<img src="images/play.png" width="600"/>
 
 ### 過關提示
-<img src=".github/images/pass.png" width="500"/>
+<img src="images/pass.png" width="500"/>
 
 ---
 
