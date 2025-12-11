@@ -15,6 +15,23 @@ This project was created as a course final project and rewritten using **Microso
 ### 過關提示
 <img src="images/pass.png" width="800"/>
 
+
+---
+
+## HUD（右上角資訊顯示）
+
+遊戲右上角會顯示目前關卡狀態，共有四項：
+
+| 名稱 | 說明 |
+|------|------|
+| **Level** | 到達的關卡數（目前正在遊玩的關卡編號）。 |
+| **Destination** | 此關卡中有幾個終點（目的地）。 |
+| **Arrival** | 已經有幾個箱子成功放入終點。 |
+| **Step** | 玩家目前累積的移動步數。 |
+
+### 過關條件  
+當 **Arrival == Destination** → 顯示過關訊息並按 **Space** 進入下一關。
+
 ---
 
 ## Features
