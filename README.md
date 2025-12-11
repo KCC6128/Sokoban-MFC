@@ -10,7 +10,7 @@ This project was created as a course final project and rewritten using **Microso
 ## Game Preview
 
 ### 遊戲畫面
-<img src="images/play.png" width="800"/>
+<img src="images/play.png" width="600"/>
 
 ### 過關提示
 <img src="images/pass.png" width="800"/>
