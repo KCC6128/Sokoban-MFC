@@ -13,7 +13,7 @@ This project was created as a course final project and rewritten using **Microso
 <img src="images/play.png" width="600"/>
 
 ### 過關提示
-<img src="images/pass.png" width="500"/>
+<img src="images/pass.png" width="800"/>
 
 ---
 
