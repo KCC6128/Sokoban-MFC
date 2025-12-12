@@ -7,6 +7,12 @@ This project was created as a course final project and rewritten using **Microso
 
 ---
 
+## Demo
+
+<img src="images/demo.gif" width="900"/>
+
+---
+
 ## Game Preview
 
 ### 遊戲畫面
