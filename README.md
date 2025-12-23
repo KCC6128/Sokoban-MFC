@@ -9,9 +9,6 @@ A Sokoban (推箱子) puzzle game built in **C++** with a **Windows MFC GUI**, f
 ## Gameplay
 控制角色推動箱子到指定位置；箱子只能被推動（不可拉動），需規劃路徑避免卡死。
 
-
-## Demo
-
 <img src="images/demo.gif" width="900"/>
 
 ---
