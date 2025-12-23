@@ -1,11 +1,13 @@
 # Sokoban-MFC
 
-A Sokoban (推箱子) puzzle game built in **C++** with a **Windows MFC GUI**, featuring **151 levels**, smooth rendering, and a **modular separation of UI and game logic**.
+A Sokoban (推箱子) puzzle game built in **C++** with a **Windows MFC GUI**, featuring **151 levels**, smooth rendering, and a clean separation between **UI** and **game logic**.
 
 以 C++/MFC 製作的 Windows 桌面推箱子遊戲，包含 151 關，並將遊戲邏輯與 UI 分層，方便維護與擴充。
 
+---
+
 ## Gameplay
-玩家需操作工人推動箱子，使所有箱子抵達目的地。
+控制角色推動箱子到指定位置；箱子只能被推動（不可拉動），需規劃路徑避免卡死。
 
 ---
 
