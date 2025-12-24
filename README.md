@@ -97,6 +97,7 @@ Sokoban_MFC_v1.0/
 └─ Map/
 ```
 > 若圖片沒顯示或關卡讀不到：請確認 `BMP/`、`Map/` 與 `Sokoban_ver_MFC.exe` 在同一層，並且先解壓縮再執行（不要直接在 zip 內執行）。
+
 > 若出現「缺少 DLL」或無法啟動，請安裝 **Microsoft Visual C++ Redistributable (x64)** 後再重試。
 
 ---
