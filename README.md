@@ -91,7 +91,7 @@ A Sokoban (推箱子) puzzle game built in **C++** with a **Windows MFC GUI**, f
 請確認解壓後的資料夾結構如下（`BMP/`、`Map/` 必須與 exe 同層）：
 
 ```text
-Sokoban_MFC/
+Sokoban_MFC_v1.0/
 ├─ Sokoban_ver_MFC.exe
 ├─ BMP/
 └─ Map/
