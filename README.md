@@ -96,6 +96,7 @@ Sokoban_MFC/
 ├─ BMP/
 └─ Map/
 ```
+> 若圖片沒顯示或關卡讀不到：請確認 `BMP/`、`Map/` 與 `Sokoban_ver_MFC.exe` 在同一層，並且先解壓縮再執行（不要直接在 zip 內執行）。
 
 ---
 
