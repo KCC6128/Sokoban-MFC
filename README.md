@@ -82,6 +82,23 @@ A Sokoban (推箱子) puzzle game built in **C++** with a **Windows MFC GUI**, f
 
 ---
 
+## Run (Windows) / 如何執行
+
+### Download & Run
+1. 到 GitHub **Releases** 下載 `Sokoban_MFC_v1.0.zip`
+2. 解壓縮後，直接執行 `Sokoban_ver_MFC.exe`
+
+請確認解壓後的資料夾結構如下（`BMP/`、`Map/` 必須與 exe 同層）：
+
+```text
+Sokoban_MFC/
+├─ Sokoban_ver_MFC.exe
+├─ BMP/
+└─ Map/
+```
+
+---
+
 ## Project Structure
 
 ```text
@@ -118,3 +135,4 @@ Sokoban-MFC/
 │     Sokoban_ver_MFC.vcxproj.filters
 │
 └── Sokoban_ver_MFC.sln        # Visual Studio solution file
+```
